@@ -1,0 +1,53 @@
+{
+    "author": "Epic",
+    "projects": [{
+            "id": 0,
+            "title": "projectTitle",
+            "imageURL": "https://metro.co.uk/wp-content/uploads/2016/02/roger-the-musclebound-kangaroo-is-back-and-it-looks-like-hes-been-hitting-the-weights.jpg?quality=80&strip=all",
+            "author": "Epic",
+            "yearCreated": "2022",
+            "languages": [
+                "python", "html", "shell"
+            ],
+            "githubLink": "https://www.github.com/",
+            "workingURL": "https://epicmillion97.github.io"
+
+        },
+        {
+            "id": 1,
+            "title": "projectTitle2",
+            "imageURL": "https://metro.co.uk/wp-content/uploads/2016/02/roger-the-musclebound-kangaroo-is-back-and-it-looks-like-hes-been-hitting-the-weights.jpg?quality=80&strip=all",
+            "author": "Epic",
+            "yearCreated": "2023",
+            "languages": [
+                "python", "javascript", "html", "react", "shell", "c+"
+            ],
+            "githubLink": "https://www.github.com/"
+
+        },
+        {
+            "id": 2,
+            "title": "projectTitle2",
+            "imageURL": "https://metro.co.uk/wp-content/uploads/2016/02/roger-the-musclebound-kangaroo-is-back-and-it-looks-like-hes-been-hitting-the-weights.jpg?quality=80&strip=all",
+            "author": "Epic",
+            "yearCreated": "2023",
+            "languages": [
+                "python", "javascript", "html", "react", "shell", "c+"
+            ],
+            "githubLink": "https://www.github.com/"
+
+        },
+        {
+            "id": 3,
+            "title": "projectTitle2",
+            "imageURL": "https://metro.co.uk/wp-content/uploads/2016/02/roger-the-musclebound-kangaroo-is-back-and-it-looks-like-hes-been-hitting-the-weights.jpg?quality=80&strip=all",
+            "author": "Epic",
+            "yearCreated": "2023",
+            "languages": [
+                "python", "javascript", "html", "react", "shell", "c+"
+            ],
+            "githubLink": "https://www.github.com/"
+
+        }
+    ]
+}
