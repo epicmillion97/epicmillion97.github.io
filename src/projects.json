@@ -2,51 +2,53 @@
     "author": "Epic",
     "projects": [{
             "id": 0,
-            "title": "projectTitle",
-            "imageURL": "https://metro.co.uk/wp-content/uploads/2016/02/roger-the-musclebound-kangaroo-is-back-and-it-looks-like-hes-been-hitting-the-weights.jpg?quality=80&strip=all",
+            "title": "This Website",
+            "imageURL": "window.location.origin + '/assets/images/personalwebsite.jpg'",
             "author": "Epic",
             "yearCreated": "2022",
             "languages": [
-                "python", "html", "shell"
+                "javascript", "html", "react", "shell"
             ],
-            "githubLink": "https://www.github.com/",
+            "githubLink": "https://github.com/epicmillion97/epicmillion97.github.io",
             "workingURL": "https://epicmillion97.github.io"
 
         },
         {
             "id": 1,
-            "title": "projectTitle2",
-            "imageURL": "https://metro.co.uk/wp-content/uploads/2016/02/roger-the-musclebound-kangaroo-is-back-and-it-looks-like-hes-been-hitting-the-weights.jpg?quality=80&strip=all",
+            "title": "React Weather App",
+            "imageURL": "window.location.origin + '/assets/images/react-weather-app-working-image.jpg'",
             "author": "Epic",
-            "yearCreated": "2023",
+            "yearCreated": "2022",
             "languages": [
-                "python", "javascript", "html", "react", "shell", "c+"
+                "javascript", "html", "react"
             ],
-            "githubLink": "https://www.github.com/"
+            "githubLink": "https://github.com/epicmillion97/react-weather-app",
+            "workingURL": "https://epicmillion97.github.io/react-weather-app/"
 
         },
         {
             "id": 2,
-            "title": "projectTitle2",
-            "imageURL": "https://metro.co.uk/wp-content/uploads/2016/02/roger-the-musclebound-kangaroo-is-back-and-it-looks-like-hes-been-hitting-the-weights.jpg?quality=80&strip=all",
+            "title": "Old Personal Website",
+            "imageURL": "window.location.origin + '/assets/images/oldpersonalwebsite.jpg'",
             "author": "Epic",
-            "yearCreated": "2023",
+            "yearCreated": "2020",
             "languages": [
-                "python", "javascript", "html", "react", "shell", "c+"
+                "html"
             ],
-            "githubLink": "https://www.github.com/"
+            "githubLink": "https://github.com/epicmillion97/oldPersonalWebsite",
+            "workingURL": "https://epicmillion97.github.io/oldPersonalWebsite"
 
         },
         {
             "id": 3,
-            "title": "projectTitle2",
-            "imageURL": "https://metro.co.uk/wp-content/uploads/2016/02/roger-the-musclebound-kangaroo-is-back-and-it-looks-like-hes-been-hitting-the-weights.jpg?quality=80&strip=all",
+            "title": "Multi Coin Flip",
+            "imageURL": "window.location.origin + '/assets/images/multicoinflipimage.jpg'",
             "author": "Epic",
-            "yearCreated": "2023",
+            "yearCreated": "2019",
             "languages": [
-                "python", "javascript", "html", "react", "shell", "c+"
+                "python"
             ],
-            "githubLink": "https://www.github.com/"
+            "githubLink": "https://github.com/epicmillion97/multicoinflip"
 
         }
     ]

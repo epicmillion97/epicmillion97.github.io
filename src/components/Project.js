@@ -1,11 +1,12 @@
 import React from 'react'
 import { FaGithub, FaPython, FaHtml5, FaReact, FaTerminal, } from 'react-icons/fa'
 import { SiJavascript } from 'react-icons/si'
+
 const Project = ( { project, id }) => {
   return (
     <div id={id} className="projectBox">
       <h1 className="projectTitle">{project.title}</h1>
-      <a className="projectImageA" href={project.workingURL}><img className="projectImage" src={project.imageURL} alt="" /></a>
+      <a className="projectImageA" href={project.workingURL}><img className="projectImage" src={project.imageURL.includes("window.location") ? eval(project.imageURL) : project.imageURL} alt="" /></a>
       <h2 className="projectAuthor">{project.author}</h2>
       <div className="projectLanguageDiv">
       {project.languages.map((language) =>{ 
